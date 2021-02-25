@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a rookie, I am learning Github from 0.
 <!--
 **nailzhao/nailzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
